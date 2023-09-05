@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+#root, .App {
+  height: 100%;
+}
+
+.ant-space-item {
+  display: contents;
+}
